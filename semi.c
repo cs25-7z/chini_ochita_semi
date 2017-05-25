@@ -5,9 +5,9 @@ void main(){
     char deadline=7;
     for(i=deadline;i>=0;i--){
         if(i==0){
-            printf(".\n.\n.\nThe End");
+            printf(".\n.\n.\nThe End\n");
         }else{
-            printf("remaining - %d Days",i);
+            printf("remaining - %d Days\n",i);
             getchar();
         }
     }
