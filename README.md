@@ -1,2 +1,2 @@
 # chini_ochita_semi
-八日目の蝉
+八日目の蝉と愉快なMADMAN
